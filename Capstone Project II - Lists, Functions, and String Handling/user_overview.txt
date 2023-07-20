@@ -1,0 +1,30 @@
+###### Total User Overview ###### 
+
+Total Number of users: 		 3 
+Total Number of tasks: 		 7 
+
+
+====== admin overview ====== 
+
+Number of tasks:                		 7 
+Percentage of total tasks:      		 100.0% 
+Percentage of completed tasks:  		 350.0% 
+Percentage of incomplete tasks: 		 140.0% 
+Percentage of overdue tasks:    		 233.33% 
+
+====== sam overview ====== 
+
+Number of tasks:                		 7 
+Percentage of total tasks:      		 100.0% 
+Percentage of completed tasks:  		 350.0% 
+Percentage of incomplete tasks: 		 140.0% 
+Percentage of overdue tasks:    		 233.33% 
+
+====== jacqui overview ====== 
+
+Number of tasks:                		 7 
+Percentage of total tasks:      		 100.0% 
+Percentage of completed tasks:  		 350.0% 
+Percentage of incomplete tasks: 		 140.0% 
+Percentage of overdue tasks:    		 233.33% 
+
