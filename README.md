@@ -11,6 +11,6 @@ Topics Completed (among others):
 * Data analysis
 * Exploratory Analysis
 * Databases
-* SQL and SQLite
+* PostgreSQL and SQLite
 * Machine Learning
 * Image processing
