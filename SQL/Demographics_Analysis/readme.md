@@ -15,3 +15,7 @@ You have been given a CSV file that has transaction data for a retail store. You
 These findings would be a good starting point to decide the overall business direction.
 An interesting next step would be to try and understand the psychographic reasons behind these customers' buying decisions.
 Combining this analysis with growth figures (not available in this dataset) would go a long way to identifying the most valuable customers to focus on.
+
+## Next steps
+
+Extract above average spending individual customers and build a demographic and pyschographic profile of them vs. rest of the dataset
